@@ -1,0 +1,14 @@
+bialy
+czarny
+e1 d1 a1 h1 b1 g1 c1 f1 a2 b2 c2 d2 e2 f2 g2 h2
+e8 d8 a8 h8 b8 g8 c8 f8 a7 b7 c7 d7 e7 f7 g7 h7
+w e2 m e3
+b d7 m d6
+w f1 m e2
+b c8 m e6
+w g1 m f3
+b d8 m d7
+w e1 s g1
+b b8 m c6
+w d2 m d3
+b e8 l c8
