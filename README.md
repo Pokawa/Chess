@@ -50,7 +50,11 @@ Then there are two rows of \[oa-j]\[01-9] tuples, 16 each, one for every chessma
 These are starting positions for all of the pieces, always in order of: king, queen, 2x rook, 2x knight, 2x bishop and 8x pawn.
 Position of **o0** means that chessman is not present on the board.
 After that there is a series of rounds in format of:
+
 **who from what where**
+```
+b h4 m h6
+```
 who can be values **b** for black and **w** for white, after that comes position of piece that is moving, then what kind of action is this, and finally destination position.
 Posiible kinds of actions are: **m** for move, **t** for take, **e** for en passant, **l** for long castling, **s** for short one, **p** for promotion, **q r k b** fro different priomotions, and lastly **w** for a winning round.
 
